@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local scratch — generated PDFs are committed deliberately, so do not ignore docs/
